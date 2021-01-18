@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="celulas_automatas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/celulas_automatas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
